@@ -6,7 +6,7 @@ Eu inicio meus estudos em Html,java e JavaScript<br>
 Pronomes:Ele/Dele.<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias10091996)](https://github.com/anuraghazra/github-readme-stats)
 <a href = "https://github.com/ELIAs10091996/Elias10091996/" >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias10091996&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elias10091996&show_icons=true)<br>
  <img align="center" alt="Elias-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
